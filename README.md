@@ -6,10 +6,11 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Engineering+Student+%7C+Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Building+Industry-Grade+Systems" 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=4F9CF9&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Developer;Java+Full+Stack+Developer;Software+Testing+Engineer;System+Developer" 
     alt="Typing SVG"
   />
 </p>
+
 
 ---
 
