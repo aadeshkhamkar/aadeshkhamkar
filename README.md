@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aadesh Khamkar</h1>
 
-<!--
-**aadeshkhamkar/aadeshkhamkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Engineering+Student+%7C+Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Building+Industry-Grade+Systems" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- Results-driven engineering student focused on **real-world systems**
+- Experience in **Full Stack Development, ML & Data-Driven Applications**
+- Interested in **industry-grade architectures & scalable solutions**
+- Always learning, building, and improving 🚀
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,react,nextjs,nodejs,express,django,spring,mysql,mongodb,html,css,tailwind,git,github,linux" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadeshkhamkar&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadeshkhamkar&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadeshkhamkar&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+- 🔹 **Hybrid Vehicle Mode Switcher**
+- 🔹 **Intelligent RTO Monitoring System**
+- 🔹 **HearNSee – Adaptive Education Platform**
+- 🔹 **FinTech & Real Estate Web Applications**
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://aadeshkhamkar.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aadeshkhamkar&label=Profile+Views&color=blueviolet&style=flat" />
+</p>
