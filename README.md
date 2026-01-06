@@ -31,15 +31,6 @@
 
 ---
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=aadeshkhamkar&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
 ### 📈 Contribution Graph
 <p align="center">
   <img 
