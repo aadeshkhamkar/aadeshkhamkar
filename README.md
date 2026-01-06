@@ -27,21 +27,6 @@
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadeshkhamkar&theme=tokyonight" />
-</p>
-
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=aadeshkhamkar&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
 ### 📈 Contribution Graph
 <p align="center">
   <img 
