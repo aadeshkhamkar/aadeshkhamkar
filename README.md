@@ -20,6 +20,35 @@
 - Always learning, building, and improving 🚀
 
 ---
+---
+
+## 💼 Projects
+
+| Project | Duration | Description |
+|-------|---------|------------|
+| **PetXpert** | Jan 2025 – Jan 2026 | AI-powered pet care platform for health guidance, vet booking, and services. |
+| **FinTrack** | Jun 2025 | Smart personal finance dashboard with AI predictions and reports. |
+| **NextU** | Jan 2025 – May 2025 | University website with AI chatbot and responsive design. |
+| **PlotPilot** | Jan 2025 – Feb 2025 | Full-stack real estate platform with maps and advanced filters. |
+| **HearNSee** | Aug 2024 – Nov 2024 | Inclusive learning platform for deaf & blind students (SIH). |
+| **Caree-πrack** | Mar 2024 – Apr 2024 | AI career guidance chatbot for students and professionals. |
+| **Behind The Smile** | Jun 2023 – Oct 2023 | Mental health & wellness survey app with Ayurvedic insights. |
+| **Job-Orbit** | Jun 2023 – Jul 2023 | AI-enabled job search and hiring assistant for freshers. |
+| **HoloWave** | FY PBL | Hand gesture recognition interface for human–machine interaction. |
+
+🔗 **Explore all projects with live previews:**  
+👉 https://aadeshkhamkar.vercel.app/
+
+👉 Full list in my GitHub: https://github.com/aadeshkhamkar
+
+---
+
+## 🌐 Portfolio
+
+Visit my **portfolio site**:  
+🔥 https://aadeshkhamkar.vercel.app/
+
+---
 
 ### 🛠️ Tech Stack
 <p align="center">
