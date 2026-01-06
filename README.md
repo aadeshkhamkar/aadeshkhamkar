@@ -35,14 +35,10 @@
       </stop>
     </linearGradient>
 
-    <!-- GLOW FILTER -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+    <p align="center">
+  <img src="https://raw.githubusercontent.com/aadeshkhamkar/aadeshkhamkar/main/assets/header.svg" />
+</p>
+tt
   </defs>
 
   <!-- BACKGROUND -->
