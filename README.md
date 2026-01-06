@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aadesh Khamkar</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aadesh%20Khamkar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-
-<h1 align="center">Hi 👋, I'm Aadesh Khamkar</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Engineering+Student+%7C+Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Building+Industry-Grade+Systems" />
-</p>
-
-
-
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Engineering+Student+%7C+Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Building+Industry-Grade+Systems" 
