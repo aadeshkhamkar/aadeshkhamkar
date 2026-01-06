@@ -14,6 +14,28 @@
       </stop>
     </linearGradient>
 
+   <svg width="100%" height="260" viewBox="0 0 1200 260"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- DEFINITIONS -->
+  <defs>
+    <!-- Animated Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f2027">
+        <animate attributeName="stop-color"
+                 values="#0f2027;#203a43;#2c5364;#0f2027"
+                 dur="8s"
+                 repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#2c5364">
+        <animate attributeName="stop-color"
+                 values="#2c5364;#0f2027;#203a43;#2c5364"
+                 dur="8s"
+                 repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- GLOW FILTER -->
     <filter id="glow">
       <feGaussianBlur stdDeviation="4" result="blur"/>
       <feMerge>
@@ -21,6 +43,32 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+  </defs>
+
+  <!-- BACKGROUND -->
+  <rect width="100%" height="100%" fill="url(#bgGradient)" />
+
+  <!-- MAIN TEXT -->
+  <text x="50%" y="45%"
+        text-anchor="middle"
+        font-size="42"
+        font-family="JetBrains Mono"
+        fill="#ffffff"
+        filter="url(#glow)">
+    Aadesh Khamkar
+  </text>
+
+  <!-- SUBTITLE -->
+  <text x="50%" y="65%"
+        text-anchor="middle"
+        font-size="18"
+        font-family="JetBrains Mono"
+        fill="#cbd5e1">
+    Engineering Student | Full Stack Developer | AI Explorer
+  </text>
+
+</svg>
+
   </defs>
 
   <rect width="800" height="400" fill="#0a0a0a"/>
