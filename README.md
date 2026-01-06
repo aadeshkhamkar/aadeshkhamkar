@@ -4,12 +4,15 @@
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aadesh%20Khamkar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" 
 /></p>
 
+<!-- Animation of text -->
+
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=4F9CF9&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Developer;Java+Full+Stack+Developer;Software+Testing+Engineer;System+Developer" 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=6B7280&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Developer;Java+Full+Stack+Developer;Software+Testing+Engineer;System+Developer" 
     alt="Typing SVG"
   />
 </p>
+
 
 
 ---
