@@ -36,9 +36,6 @@
 | **Job-Orbit** | Jun 2023 – Jul 2023 | AI-enabled job search and hiring assistant for freshers. |
 | **HoloWave** | FY PBL | Hand gesture recognition interface for human–machine interaction. |
 
-🔗 **Explore all projects with live previews:**  
-👉 https://aadeshkhamkar.vercel.app/
-
 👉 Full list in my GitHub: https://github.com/aadeshkhamkar
 
 ---
