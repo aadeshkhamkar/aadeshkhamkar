@@ -7,23 +7,23 @@
 <!-- Animation of text -->
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=6B7280&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Developer;Java+Full+Stack+Developer;Software+Testing+Engineer;System+Developer" 
-    alt="Typing SVG"
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=E63946&center=true&vCenter=true&width=720&lines=Software+Developer;Backend+Developer;Java+Full+Stack+Developer;Software+Testing+Engineer;System+Developer"
+    alt="Recruiter Optimized Titles"
   />
 </p>
+
 
 
 
 ---
 
 ### 👨‍💻 About Me
-- Results-driven engineering student focused on **real-world systems**
-- Experience in **Full Stack Development, ML & Data-Driven Applications**
-- Interested in **industry-grade architectures & scalable solutions**
-- Always learning, building, and improving 🚀
+-- Results-driven engineering student focused on **real-world systems**
+-- Experience in **Full Stack Development, ML & Data-Driven Applications**
+-- Interested in **industry-grade architectures & scalable solutions**
+-- Always learning, building, and improving 🚀
 
----
 ---
 
 ## 💼 Projects
