@@ -1,18 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aadesh Khamkar</h1>
 
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving
-  &color=0:0f2027,50:203a43,100:2c5364
-  &height=230
-  &section=header
-  &text=Aadesh%20Khamkar
-  &fontSize=44
-  &fontColor=ffffff
-  &animation=fadeIn
-  &fontAlignY=38
-  &desc=Engineering%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Explorer
-  &descAlignY=55
-  &descSize=18"
+  src="https://svg-banners.vercel.app/api?type=origin
+  &text1=Aadesh%20Khamkar
+  &text2=Engineering%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Explorer
+  &width=1200
+  &height=300"
 />
 
 
