@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aadesh Khamkar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Engineering+Student+%7C+Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Building+Industry-Grade+Systems" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Engineering+Student+%7C+Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Building+Industry-Grade+Systems" 
+    alt="Typing SVG"
+  />
 </p>
 
 ---
@@ -16,25 +19,37 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,react,nextjs,nodejs,express,django,spring,mysql,mongodb,html,css,tailwind,git,github,linux" />
+  <img 
+    src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,react,nextjs,nodejs,express,django,spring,mysql,mongodb,html,css,tailwind,git,github,linux"
+    alt="Tech Stack"
+  />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadeshkhamkar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=aadeshkhamkar&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadeshkhamkar&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=aadeshkhamkar&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadeshkhamkar&theme=tokyonight" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadeshkhamkar&theme=tokyonight"
+    alt="Contribution Graph"
+  />
 </p>
 
 ---
@@ -60,5 +75,8 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aadeshkhamkar&label=Profile+Views&color=blueviolet&style=flat" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=aadeshkhamkar&label=Profile+Views&color=blueviolet&style=flat" 
+    alt="Profile Views"
+  />
 </p>
