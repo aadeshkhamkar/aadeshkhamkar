@@ -1,8 +1,20 @@
 <h1 align="center">Hi 👋, I'm Aadesh Khamkar</h1>
 
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aadesh%20Khamkar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" 
+  src="https://capsule-render.vercel.app/api?type=waving
+  &color=0:0f2027,50:203a43,100:2c5364
+  &height=230
+  &section=header
+  &text=Aadesh%20Khamkar
+  &fontSize=44
+  &fontColor=ffffff
+  &animation=fadeIn
+  &fontAlignY=38
+  &desc=Engineering%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Explorer
+  &descAlignY=55
+  &descSize=18"
 />
+
 
 <p align="center">
   <img 
