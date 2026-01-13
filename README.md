@@ -15,11 +15,16 @@
 
 
 
-
 ---
 
 ### 👨‍💻 About Me
 I am a results-driven engineering student with a strong focus on building real-world, industry-grade systems. I have hands-on experience in full-stack development, machine learning, and data-driven applications, with an emphasis on clean architecture, scalability, and performance. I enjoy working on practical problems that require thoughtful system design and efficient implementation. Continuously learning and experimenting with new technologies, I aim to develop solutions that are reliable, impactful, and aligned with real industry needs.
+
+---
+## 🏆 GitHub Achievements
+- 🐙 Pull Shark
+- ⚡ Quickdraw
+- 🔥 YOLO
 
 ---
 
