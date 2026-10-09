@@ -114,6 +114,7 @@ Visit my **portfolio site**:
 
 ---
 
+<!--
 ### 🛠️ Tech Stack
 <p align="center">
   <img 
@@ -122,7 +123,7 @@ Visit my **portfolio site**:
   />
 </p>
 
-
+-->
 
 ## 🛠️ Technical Skills & Technologies
 
@@ -280,7 +281,7 @@ Visit my **portfolio site**:
 </table>
 
 
-
+<!--
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -289,21 +290,9 @@ Visit my **portfolio site**:
     alt="Programming languages, frontend, backend, databases, AI and development tools"
   />
 </p>
+*/
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-7C3AED?style=flat-square" alt="AI and Machine Learning" />
-  <img src="https://img.shields.io/badge/Generative%20AI-6366F1?style=flat-square" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/LLM%20%26%20Prompt%20Engineering-0F766E?style=flat-square" alt="LLM and Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Computer%20Networks-2563EB?style=flat-square" alt="Computer Networks" />
-  <img src="https://img.shields.io/badge/DSA-475569?style=flat-square" alt="Data Structures and Algorithms" />
-  <img src="https://img.shields.io/badge/OOP-334155?style=flat-square" alt="Object-Oriented Programming" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0F766E?style=flat-square" alt="REST APIs" />
-</p>
-
+-->
 
 ---
 
@@ -318,17 +307,66 @@ Visit my **portfolio site**:
 ---
 
 
+
 ### 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/aadeshkhamkar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://aadeshkhamkar.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
+  &nbsp;
+  <a href="https://aadeshkhamkar.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:aadeshkhamkar7065@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/aadeshkhamkar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</p>
+
+
 ---
+
+
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aadeshkhamkar/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://aadeshkhamkar.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:aadeshkhamkar7065@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/aadeshkhamkar" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="YOUR_LEETCODE_PROFILE_URL" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="YOUR_CODECHEF_PROFILE_URL" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</p>
+
+
 
 <p align="center">
   <img 
