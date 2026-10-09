@@ -280,6 +280,31 @@ Visit my **portfolio site**:
 </table>
 
 
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,react,redux,bootstrap,tailwind,nodejs,express,django,spring,fastapi,mysql,mongodb,postgres,sqlite,tensorflow,git,github,linux,vscode,eclipse,postman"
+    alt="Programming languages, frontend, backend, databases, AI and development tools"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-7C3AED?style=flat-square" alt="AI and Machine Learning" />
+  <img src="https://img.shields.io/badge/Generative%20AI-6366F1?style=flat-square" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/LLM%20%26%20Prompt%20Engineering-0F766E?style=flat-square" alt="LLM and Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-2563EB?style=flat-square" alt="Computer Networks" />
+  <img src="https://img.shields.io/badge/DSA-475569?style=flat-square" alt="Data Structures and Algorithms" />
+  <img src="https://img.shields.io/badge/OOP-334155?style=flat-square" alt="Object-Oriented Programming" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0F766E?style=flat-square" alt="REST APIs" />
+</p>
+
+
 ---
 
 ### 📈 Contribution Graph
@@ -292,13 +317,6 @@ Visit my **portfolio site**:
 
 ---
 
-### 🚀 Featured Projects
-- 🔹 **Hybrid Vehicle Mode Switcher**
-- 🔹 **Intelligent RTO Monitoring System**
-- 🔹 **HearNSee – Adaptive Education Platform**
-- 🔹 **FinTech & Real Estate Web Applications**
-
----
 
 ### 🌐 Connect With Me
 <p align="center">
