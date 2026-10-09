@@ -15,6 +15,12 @@
 
 
 
+### 👨‍💻 About Me
+
+AI & Data Science graduate with a CGPA of **9.12/10**, passionate about software development, artificial intelligence, and data-driven solutions. Skilled in **Java, Python, React.js, Spring Boot, and SQL**, with practical experience building full-stack applications and integrating AI-powered features. Interested in Generative AI, machine learning, and scalable software solutions.
+
+
+
 ---
 
 ### 👨‍💻 About Me
