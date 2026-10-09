@@ -296,16 +296,6 @@ Visit my **portfolio site**:
 ---
 
 ### 📈 Contribution Graph
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadeshkhamkar&theme=tokyonight"
-    alt="Contribution Graph"
-  />
-</p>
-
-
-
-### 📈 Contribution Graph
 
 <p align="center">
   <img
