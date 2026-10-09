@@ -16,6 +16,17 @@
 
 
 
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Software+Developer;Full+Stack+Developer;AI%2FML+Engineer;Data+Analyst;AI%26DS+Graduate"
+    alt="Software Developer, Full Stack Developer, AI/ML Engineer, Data Analyst, AI and Data Science Graduate"
+  />
+</p>
+
+
+
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=E63946&center=true&vCenter=true&width=720&lines=Software+Developer;Backend+Developer;Java+Full+Stack+Developer;Software+Testing+Engineer;System+Developer"
