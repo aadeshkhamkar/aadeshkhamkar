@@ -43,33 +43,79 @@ I am a results-driven engineering student with a strong focus on building real-w
 | **HoloWave** | FY PBL | Hand gesture recognition interface for human–machine interaction. |
 
 
-
 ## 🚀 Featured Projects
 
-### 1. Intelligent RTO Monitoring and Forecasting System
+<p align="center">
+  <em>Building practical solutions with software engineering, AI, and data science.</em>
+</p>
 
-- Developed a vehicle monitoring system featuring vehicle tracking, cross-state analysis, forecasting, OCR-based number-plate recognition, and report generation.
-- Improved number-plate recognition through image preprocessing and worked on data cleaning, feature engineering, and model optimization.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">01 · Intelligent RTO</h3>
+      <p align="center">🚘 <strong>Vehicle Monitoring & Forecasting</strong></p>
+      <p>
+        A vehicle monitoring system for cross-state tracking, vehicle analysis,
+        forecasting, number-plate recognition, and report generation.
+      </p>
+      <hr>
+      <p><strong>Key Contributions</strong></p>
+      <ul>
+        <li>Implemented vehicle analytics and forecasting workflows.</li>
+        <li>Improved number-plate recognition through image preprocessing and worked on data preparation and model optimization.</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=flat-square" alt="Machine Learning">
+        <img src="https://img.shields.io/badge/OCR-0F766E?style=flat-square" alt="OCR">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">02 · Krishi Mitra AI</h3>
+      <p align="center">🌱 <strong>Smart Agriculture Platform</strong></p>
+      <p>
+        An AI-powered agriculture platform offering farm management, crop tracking,
+        smart farming recommendations, and multilingual chatbot assistance.
+      </p>
+      <hr>
+      <p><strong>Key Contributions</strong></p>
+      <ul>
+        <li>Developed backend services and REST APIs for agriculture features.</li>
+        <li>Integrated Groq API for AI-assisted crop disease detection and chatbot functionality.</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/Groq_API-111827?style=flat-square" alt="Groq API">
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">03 · HearNSee</h3>
+      <p align="center">♿ <strong>Inclusive Learning Platform</strong></p>
+      <p>
+        An educational platform concept focused on making learning more accessible
+        for blind and deaf students.
+      </p>
+      <hr>
+      <p><strong>Key Contributions</strong></p>
+      <ul>
+        <li>Focused on improving access to educational resources for students with different accessibility needs.</li>
+        <li>Emphasized an inclusive, accessible, and user-friendly learning experience.</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Accessibility-0F766E?style=flat-square" alt="Accessibility">
+        <img src="https://img.shields.io/badge/Inclusive_Tech-6366F1?style=flat-square" alt="Inclusive Technology">
+        <img src="https://img.shields.io/badge/Education-DB2777?style=flat-square" alt="Education">
+      </p>
+    </td>
+  </tr>
+</table>
 
-**Tech Stack:** Python · Machine Learning · OCR · REST APIs · MongoDB
-
----
-
-### 2. Krishi Mitra AI — Smart Agriculture Platform
-
-- Developed an AI-powered agriculture platform with farm management, crop tracking, smart farming recommendations, and a multilingual chatbot for farmers.
-- Integrated the Groq API for AI-assisted crop disease detection and chatbot functionality using Spring Boot, REST APIs, and MySQL.
-
-**Tech Stack:** Java · Spring Boot · JavaScript · REST APIs · MySQL · Groq API
-
----
-
-### 3. HearNSee — Inclusive Learning Platform
-
-- Developed an inclusive learning platform concept designed to improve educational accessibility for blind and deaf students.
-- Focused on making learning resources more accessible and creating a user-friendly learning experience for students with different accessibility needs.
-
-**Focus:** Inclusive Technology · Accessibility · Educational Technology
+<p align="center">
+  <sub>Software Development · Artificial Intelligence · Accessible Technology</sub>
+</p>
 
 
 👉 Full list in my GitHub: https://github.com/aadeshkhamkar
