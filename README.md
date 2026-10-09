@@ -42,6 +42,36 @@ I am a results-driven engineering student with a strong focus on building real-w
 | **Job-Orbit** | Jun 2023 – Jul 2023 | AI-enabled job search and hiring assistant for freshers. |
 | **HoloWave** | FY PBL | Hand gesture recognition interface for human–machine interaction. |
 
+
+
+## 🚀 Featured Projects
+
+### 1. Intelligent RTO Monitoring and Forecasting System
+
+- Developed a vehicle monitoring system featuring vehicle tracking, cross-state analysis, forecasting, OCR-based number-plate recognition, and report generation.
+- Improved number-plate recognition through image preprocessing and worked on data cleaning, feature engineering, and model optimization.
+
+**Tech Stack:** Python · Machine Learning · OCR · REST APIs · MongoDB
+
+---
+
+### 2. Krishi Mitra AI — Smart Agriculture Platform
+
+- Developed an AI-powered agriculture platform with farm management, crop tracking, smart farming recommendations, and a multilingual chatbot for farmers.
+- Integrated the Groq API for AI-assisted crop disease detection and chatbot functionality using Spring Boot, REST APIs, and MySQL.
+
+**Tech Stack:** Java · Spring Boot · JavaScript · REST APIs · MySQL · Groq API
+
+---
+
+### 3. HearNSee — Inclusive Learning Platform
+
+- Developed an inclusive learning platform concept designed to improve educational accessibility for blind and deaf students.
+- Focused on making learning resources more accessible and creating a user-friendly learning experience for students with different accessibility needs.
+
+**Focus:** Inclusive Technology · Accessibility · Educational Technology
+
+
 👉 Full list in my GitHub: https://github.com/aadeshkhamkar
 
 ---
