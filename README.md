@@ -18,7 +18,8 @@
 ---
 
 ### 👨‍💻 About Me
-I am a results-driven engineering student with a strong focus on building real-world, industry-grade systems. I have hands-on experience in full-stack development, machine learning, and data-driven applications, with an emphasis on clean architecture, scalability, and performance. I enjoy working on practical problems that require thoughtful system design and efficient implementation. Continuously learning and experimenting with new technologies, I aim to develop solutions that are reliable, impactful, and aligned with real industry needs.
+
+Artificial Intelligence and Data Science graduate with a strong foundation in software engineering, full-stack development, machine learning, and data analytics. Proficient in Java, Python, JavaScript, React.js, Spring Boot, REST APIs, and database management, with experience building end-to-end applications and integrating AI-powered solutions. Knowledgeable in Generative AI, LLM integration, prompt engineering, data preprocessing, and visualization. Demonstrates strong problem-solving, analytical thinking, and programming fundamentals, with a focus on developing scalable, efficient, and user-centric technology solutions.
 
 ---
 ## 🏆 GitHub Achievements
@@ -304,40 +305,6 @@ Visit my **portfolio site**:
   />
 </p>
 
----
-
-
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aadeshkhamkar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://aadeshkhamkar.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="mailto:aadeshkhamkar7065@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/aadeshkhamkar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-</p>
-
 
 ---
 
@@ -366,6 +333,7 @@ Visit my **portfolio site**:
   </a>
 </p>
 
+---
 
 
 <p align="center">
