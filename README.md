@@ -304,8 +304,28 @@ Visit my **portfolio site**:
 </p>
 
 
----
 
+### 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadeshkhamkar&theme=tokyonight"
+    alt="Aadesh Khamkar's GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=aadeshkhamkar&theme=tokyonight"
+    alt="GitHub Contribution Streak"
+    width="70%"
+  />
+</p>
+
+
+
+---
 
 
 ### 🌐 Connect With Me
