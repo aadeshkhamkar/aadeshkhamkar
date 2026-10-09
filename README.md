@@ -28,21 +28,6 @@ I am a results-driven engineering student with a strong focus on building real-w
 
 ---
 
-## 💼 Projects
-
-| Project | Duration | Description |
-|-------|---------|------------|
-| **PetXpert** | Jan 2025 – Jan 2026 | AI-powered pet care platform for health guidance, vet booking, and services. |
-| **FinTrack** | Jun 2025 | Smart personal finance dashboard with AI predictions and reports. |
-| **NextU** | Jan 2025 – May 2025 | University website with AI chatbot and responsive design. |
-| **PlotPilot** | Jan 2025 – Feb 2025 | Full-stack real estate platform with maps and advanced filters. |
-| **HearNSee** | Aug 2024 – Nov 2024 | Inclusive learning platform for deaf & blind students (SIH). |
-| **Caree-πrack** | Mar 2024 – Apr 2024 | AI career guidance chatbot for students and professionals. |
-| **Behind The Smile** | Jun 2023 – Oct 2023 | Mental health & wellness survey app with Ayurvedic insights. |
-| **Job-Orbit** | Jun 2023 – Jul 2023 | AI-enabled job search and hiring assistant for freshers. |
-| **HoloWave** | FY PBL | Hand gesture recognition interface for human–machine interaction. |
-
-
 ## 🚀 Featured Projects
 
 <p align="center">
@@ -118,7 +103,7 @@ I am a results-driven engineering student with a strong focus on building real-w
 </p>
 
 
-👉 Full list in my GitHub: https://github.com/aadeshkhamkar
+👉 Full list in my LinkedIn : https://www.linkedin.com/in/aadeshkhamkar/
 
 ---
 
@@ -136,6 +121,164 @@ Visit my **portfolio site**:
     alt="Tech Stack"
   />
 </p>
+
+
+
+## 🛠️ Technical Skills & Technologies
+
+<p align="center">
+  <em>A comprehensive overview of my technical skills across software development, AI, data science, analytics, and networking.</em>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Programming Languages</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=java,python,js" alt="Java, Python and JavaScript">
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 Frontend Development</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,react,redux,bootstrap" alt="HTML, CSS, React, Redux and Bootstrap">
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Responsive%20Design-0F766E?style=flat-square" alt="Responsive Design">
+        <img src="https://img.shields.io/badge/UI%20Development-6366F1?style=flat-square" alt="UI Development">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Backend & API Development</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=spring,fastapi" alt="Spring Boot and FastAPI">
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/REST%20APIs-0F766E?style=flat-square" alt="REST APIs">
+        <img src="https://img.shields.io/badge/MVC-475569?style=flat-square" alt="MVC">
+        <img src="https://img.shields.io/badge/JDBC-4479A1?style=flat-square" alt="JDBC">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗄️ Databases & Data Management</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" alt="MySQL, MongoDB, PostgreSQL and SQLite">
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Database%20Design-475569?style=flat-square" alt="Database Design">
+        <img src="https://img.shields.io/badge/CRUD%20Operations-0F766E?style=flat-square" alt="CRUD Operations">
+        <img src="https://img.shields.io/badge/SQL%20Queries-4479A1?style=flat-square" alt="SQL Queries">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Artificial Intelligence & Machine Learning</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=tensorflow,keras" alt="TensorFlow and Keras">
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+        <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=flat-square" alt="Deep Learning">
+        <img src="https://img.shields.io/badge/CNN-6366F1?style=flat-square" alt="Convolutional Neural Networks">
+        <img src="https://img.shields.io/badge/RNN-0891B2?style=flat-square" alt="Recurrent Neural Networks">
+        <img src="https://img.shields.io/badge/NLP-0F766E?style=flat-square" alt="Natural Language Processing">
+        <img src="https://img.shields.io/badge/YOLOv5-111827?style=flat-square" alt="YOLOv5">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✨ Generative AI & Intelligent Systems</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=flat-square" alt="Generative AI">
+        <img src="https://img.shields.io/badge/LLM%20Integration-6366F1?style=flat-square" alt="LLM Integration">
+        <img src="https://img.shields.io/badge/Prompt%20Engineering-0F766E?style=flat-square" alt="Prompt Engineering">
+        <img src="https://img.shields.io/badge/RAG-0891B2?style=flat-square" alt="Retrieval-Augmented Generation">
+        <img src="https://img.shields.io/badge/AI%20Chatbots-475569?style=flat-square" alt="AI Chatbots">
+        <img src="https://img.shields.io/badge/OCR-DB2777?style=flat-square" alt="Optical Character Recognition">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Data Science & Analytics</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+        <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy">
+        <img src="https://img.shields.io/badge/Data%20Cleaning-0F766E?style=flat-square" alt="Data Cleaning">
+        <img src="https://img.shields.io/badge/Feature%20Engineering-6366F1?style=flat-square" alt="Feature Engineering">
+        <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-475569?style=flat-square" alt="Exploratory Data Analysis">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Data Visualization & Business Intelligence</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Microsoft Power BI">
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib">
+        <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn">
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Charts%20%26%20Graphs-0F766E?style=flat-square" alt="Charts and Graphs">
+        <img src="https://img.shields.io/badge/Dashboards-6366F1?style=flat-square" alt="Dashboards">
+        <img src="https://img.shields.io/badge/Data%20Interpretation-475569?style=flat-square" alt="Data Interpretation">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Computer Networks & Networking</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Computer%20Networks-2563EB?style=flat-square" alt="Computer Networks">
+        <img src="https://img.shields.io/badge/TCP%2FIP-0F766E?style=flat-square" alt="TCP/IP">
+        <img src="https://img.shields.io/badge/OSI%20Model-475569?style=flat-square" alt="OSI Model">
+        <img src="https://img.shields.io/badge/DNS-6366F1?style=flat-square" alt="DNS">
+        <img src="https://img.shields.io/badge/HTTP%2FHTTPS-0891B2?style=flat-square" alt="HTTP and HTTPS">
+        <img src="https://img.shields.io/badge/LAN%20%2F%20WAN-7C3AED?style=flat-square" alt="LAN and WAN">
+        <img src="https://img.shields.io/badge/Networking%20Fundamentals-334155?style=flat-square" alt="Networking Fundamentals">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔧 Developer Tools & Environments</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse,figma" alt="Git, GitHub, Postman, VS Code, Eclipse and Figma">
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva">
+        <img src="https://img.shields.io/badge/Debugging-475569?style=flat-square" alt="Debugging">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ Cloud & Big Data Fundamentals</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Cloud%20Computing-2563EB?style=flat-square" alt="Cloud Computing">
+        <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=111111" alt="Apache Hadoop">
+        <img src="https://img.shields.io/badge/MapReduce-475569?style=flat-square" alt="MapReduce">
+        <img src="https://img.shields.io/badge/Distributed%20Computing-0F766E?style=flat-square" alt="Distributed Computing">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Computer Science Fundamentals</h3>
+      <p>
+        <img src="https://img.shields.io/badge/OOP-334155?style=flat-square" alt="Object-Oriented Programming">
+        <img src="https://img.shields.io/badge/DSA-0F766E?style=flat-square" alt="Data Structures and Algorithms">
+        <img src="https://img.shields.io/badge/Operating%20Systems-6366F1?style=flat-square" alt="Operating Systems">
+        <img src="https://img.shields.io/badge/DBMS-475569?style=flat-square" alt="Database Management Systems">
+        <img src="https://img.shields.io/badge/SDLC-0891B2?style=flat-square" alt="Software Development Life Cycle">
+        <img src="https://img.shields.io/badge/Agile-7C3AED?style=flat-square" alt="Agile">
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
